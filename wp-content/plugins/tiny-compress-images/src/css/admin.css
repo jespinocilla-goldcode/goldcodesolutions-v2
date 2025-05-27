@@ -86,7 +86,7 @@ div.tiny-account-status div.status-loading:before {
 	top: 22px;
 	height: 20px;
 	width: 20px;
-	background: url("https://jespinocilla-goldcode.github.io/goldcodesolutions-v2/wp-content/plugins/tiny-compress-images/src/images/spinner.gif") no-repeat center;
+	background: url("https://goldcodesolutions.com/wp-content/plugins/tiny-compress-images/src/images/spinner.gif") no-repeat center;
 	background-size: 20px 20px;
 	content: "";
 }
@@ -97,7 +97,7 @@ div.tiny-account-status div.status-loading  p {
 
 @media (-webkit-min-device-pixel-ratio: 1.25), (min-resolution: 120dpi) {
 	div.tiny-account-status div.status-loading:before {
-		background-image: url("https://jespinocilla-goldcode.github.io/goldcodesolutions-v2/wp-content/plugins/tiny-compress-images/src/images/spinner-2x.gif");
+		background-image: url("https://goldcodesolutions.com/wp-content/plugins/tiny-compress-images/src/images/spinner-2x.gif");
 	}
 }
 
@@ -220,7 +220,7 @@ div.tiny-account-status.wide div.update button {
 
 div.tiny-account-status.wide div.create button.loading,
 div.tiny-account-status.wide div.update button.loading {
-	background-image: url(https://jespinocilla-goldcode.github.io/goldcodesolutions-v2/wp-content/plugins/tiny-compress-images/src/images/button-spinner.gif) !important;
+	background-image: url(https://goldcodesolutions.com/wp-content/plugins/tiny-compress-images/src/images/button-spinner.gif) !important;
 	background-size: 16px 16px !important;
 	background-position: 95% 50% !important;
 	background-repeat: no-repeat !important;
@@ -229,7 +229,7 @@ div.tiny-account-status.wide div.update button.loading {
 @media (-webkit-min-device-pixel-ratio: 1.25), (min-resolution: 120dpi) {
 	div.tiny-account-status.wide div.create button.loading,
 	div.tiny-account-status.wide div.update button.loading {
-		background-image: url("https://jespinocilla-goldcode.github.io/goldcodesolutions-v2/wp-content/plugins/tiny-compress-images/src/images/button-spinner-2x.gif") !important;
+		background-image: url("https://goldcodesolutions.com/wp-content/plugins/tiny-compress-images/src/images/button-spinner-2x.gif") !important;
 	}
 }
 
